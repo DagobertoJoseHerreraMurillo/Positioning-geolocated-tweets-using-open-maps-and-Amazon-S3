@@ -179,7 +179,5 @@ p = subprocess.Popen([sys.executable, 'TwitterListener.py'],
 ```
 
 
-# Task 6.3: Advanced Analytics as a Service in the Cloud (optional task)
 
-TO DO
 
